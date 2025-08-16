@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+
+
+body{
+
+  background-color: rgb(0, 0, 0);
+}
+
+
+
+
+div#titulo{
+
+    background-color: rgb(110, 25, 25);
+    color: rgb(192, 185, 185);
+    text-align: center;
+
+}
+
+
+
+body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+    }
+
+    #imagem {
+      display: none; /* esconde a imagem inicialmente */
+      margin: auto;
+      max-width: 700px;
+      width: 100%;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    
